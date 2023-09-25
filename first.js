@@ -6,6 +6,6 @@
 // console.log(lastName);
 
 // //declaring const
-// const pi= 3.14; 
+ const pi= 3.1496; 
 // console.log(pi*3);
 // console.log(firstName.length);
